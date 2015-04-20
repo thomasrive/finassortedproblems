@@ -3,6 +3,8 @@
 #include <iomanip>
 using namespace std;
 
+//Calculating the average rainfall
+
 int main(){
 	string month1, month2, month3;
 	double rain1, rain2, rain3, average;
